@@ -1,0 +1,423 @@
+.card-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .card-clicked-payment-methods3 {
+    gap: 51px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(10, 37, 78, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    justify-content: flex-start;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .card-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .card-text {
+    top: 336px;
+    left: 16px;
+    color: rgba(10, 37, 78, 1);
+    width: 140px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Light;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-text02 {
+    top: 364px;
+    left: 23px;
+    color: rgba(85, 86, 90, 0.7099999785423279);
+    width: 23px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Light;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-rectangle63 {
+    top: 357px;
+    left: 15px;
+    width: 338px;
+    height: 34px;
+    position: absolute;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+  }
+  .card-rectangle64 {
+    top: 426px;
+    left: 14px;
+    width: 338px;
+    height: 34px;
+    position: absolute;
+    border-radius: 3px;
+  }
+  .card-text04 {
+    top: 427px;
+    left: 171px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-frame-elementsi-phone-x-status-bar {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .card-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .card-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-line6 {
+    top: 753px;
+    left: 1px;
+    width: 367px;
+    height: 1px;
+    position: absolute;
+    box-shadow: 0px 4px 9.300000190734863px 0px rgba(0, 0, 0, 0.25) ;
+  }
+  .card-rectangle37 {
+    top: 16px;
+    left: 25px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .card-text06 {
+    top: 16px;
+    left: 24px;
+    color: rgba(10, 37, 78, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-i-phone-icons {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .card-time1 {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-battery1 {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-reception1 {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .card-wifi1 {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-frame-elementsi-phone-x-status-bar1 {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .card-time2 {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-battery2 {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-reception2 {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .card-wifi2 {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .card-text08 {
+    top: 66px;
+    left: 115px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-text10 {
+    top: 81px;
+    left: 13px;
+    color: rgba(10, 37, 78, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-text11 {
+    top: 159px;
+    left: 13px;
+    color: rgba(10, 37, 78, 1);
+    width: 186px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-text13 {
+    top: 99px;
+    left: 142px;
+    color: rgba(10, 37, 78, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-text14 {
+    font-weight: 700;
+  }
+  .card-rectangle60 {
+    top: 198px;
+    left: 14px;
+    width: 338px;
+    height: 34px;
+    position: absolute;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+  }
+  .card-text16 {
+    top: 227px;
+    left: 16px;
+    color: rgba(10, 37, 78, 1);
+    width: 140px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Light;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-text18 {
+    top: 255px;
+    left: 23px;
+    color: rgba(85, 86, 90, 0.7099999785423279);
+    width: 140px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Light;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-rectangle61 {
+    top: 248px;
+    left: 14px;
+    width: 338px;
+    height: 34px;
+    position: absolute;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+  }
+  .card-text20 {
+    top: 280px;
+    left: 15px;
+    color: rgba(10, 37, 78, 1);
+    width: 140px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Light;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-text22 {
+    top: 308px;
+    left: 23px;
+    color: rgba(85, 86, 90, 0.7099999785423279);
+    width: 50px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Light;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .card-rectangle62 {
+    top: 301px;
+    left: 14px;
+    width: 338px;
+    height: 34px;
+    position: absolute;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+  }
+  .card-text24 {
+    top: 178px;
+    left: 13px;
+    color: rgba(10, 37, 78, 1);
+    width: 140px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Light;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

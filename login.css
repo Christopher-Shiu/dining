@@ -1,0 +1,240 @@
+.login-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .login-log-in-screen {
+    gap: 51px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .login-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .login-frame-elementsi-phone-x-status-bar {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .login-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .login-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .login-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .login-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .login-image1 {
+    top: 238px;
+    left: 117px;
+    width: 135px;
+    height: 134px;
+    position: absolute;
+  }
+  .login-text {
+    top: 177px;
+    left: 57px;
+    color: rgba(0, 8, 59, 1);
+    width: 255px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-log-in-panel {
+    top: 400px;
+    left: 38px;
+    width: 300px;
+    height: 257px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .login-text02 {
+    top: 32px;
+    left: 50px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text04 {
+    top: 85px;
+    left: 49px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text06 {
+    top: 149px;
+    left: 68px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text07 {
+    text-decoration: NONE;
+  }
+  .login-rectangle24 {
+    top: 54px;
+    left: 50px;
+    width: 200px;
+    height: 27px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .login-rectangle26 {
+    top: 107px;
+    left: 50px;
+    width: 200px;
+    height: 27px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .login-rectangle28 {
+    top: 185px;
+    left: 50px;
+    width: 200px;
+    height: 37px;
+    position: absolute;
+    border-radius: 4px;
+  }
+  .login-rectangle27 {
+    top: 151.5px;
+    left: 49px;
+    width: 15px;
+    height: 12px;
+    position: absolute;
+  }
+  .login-text09 {
+    top: 197px;
+    left: 129px;
+    color: rgba(0, 8, 59, 1);
+    width: 41px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 600;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-frameiconcheck {
+    top: 550px;
+    left: 90px;
+    width: 13px;
+    height: 11px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .login-vector {
+    top: 0px;
+    left: 0px;
+    width: 13px;
+    height: 11px;
+    position: absolute;
+  }
+  .login-rectangle35 {
+    top: 16px;
+    left: 25px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .login-text11 {
+    top: 16px;
+    left: 24px;
+    color: rgba(10, 37, 78, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  
+  

@@ -1,0 +1,423 @@
+.meal-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .meal-traditional-chicken-meal-bowl {
+    gap: 51px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .meal-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .meal-rectangle33 {
+    top: 191px;
+    left: 6px;
+    width: 355px;
+    height: 566px;
+    position: absolute;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 25px;
+  }
+  .meal-text {
+    top: 292.066650390625px;
+    left: 353.31396484375px;
+    color: rgba(255, 255, 255, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text01 {
+    top: 346.066650390625px;
+    left: 353.31396484375px;
+    color: rgba(255, 255, 255, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-garb-image {
+    top: 84px;
+    left: 25px;
+    width: 319px;
+    height: 67px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .meal-i-phone-icons {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(10, 37, 78, 1);
+  }
+  .meal-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .meal-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .meal-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .meal-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .meal-screenshot20240404at12244 {
+    top: 15px;
+    left: 170px;
+    width: 30px;
+    height: 25px;
+    position: absolute;
+  }
+  .meal-text02 {
+    top: 48px;
+    left: 136px;
+    color: rgba(255, 255, 255, 1);
+    width: 97px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text04 {
+    top: 209px;
+    left: 108px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text06 {
+    top: 171px;
+    left: 25px;
+    color: rgba(10, 37, 78, 1);
+    width: 184px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 600;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text08 {
+    top: 171px;
+    left: 276px;
+    color: rgba(183, 32, 37, 1);
+    width: 79px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-line3 {
+    top: 238px;
+    left: 12px;
+    width: 343px;
+    height: 1px;
+    position: absolute;
+  }
+  .meal-text10 {
+    top: 275px;
+    left: 27px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text12 {
+    top: 273px;
+    left: 292px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text14 {
+    top: 327px;
+    left: 292px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text16 {
+    top: 327px;
+    left: 27px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-group6 {
+    top: 740px;
+    left: 168px;
+    width: 33px;
+    height: 7px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal-ellipse12 {
+    top: 0px;
+    left: 0px;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 0.5px;
+  }
+  .meal-ellipse13 {
+    top: 0px;
+    left: 26px;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+  }
+  .meal-ellipse14 {
+    top: 0px;
+    left: 13px;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+  }
+  .meal-text18 {
+    top: 226px;
+    left: 25px;
+    color: rgba(255, 255, 255, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 0px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-text19 {
+    transform: scaleX(-1);
+    top: 226px;
+    left: 326px;
+    color: rgba(255, 255, 255, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 0px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-rectangle42 {
+    top: 15px;
+    left: 24px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .meal-text20 {
+    top: 15px;
+    left: 23px;
+    color: rgba(255, 255, 255, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal-bottom-navigation {
+    gap: 61px;
+    top: 753px;
+    left: 0px;
+    width: 368px;
+    height: 59px;
+    display: flex;
+    padding: 20px 30px;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+  .meal-frameiconhome {
+    width: 35px;
+    height: 28.957107543945312px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal-vector {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 29px;
+    position: absolute;
+  }
+  .meal-frameiconlocation {
+    width: 22px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 29px;
+    position: absolute;
+  }
+  .meal-frameiconbookmark {
+    width: 24px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal-vector2 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 29px;
+    position: absolute;
+  }
+  .meal-frameiconuser {
+    width: 27px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal-vector3 {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 29px;
+    position: absolute;
+  }
+  

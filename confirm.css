@@ -1,0 +1,478 @@
+.confirm-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .confirm-confirm-order {
+    width: 369px;
+    height: 829px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .confirm-group9 {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .confirm-sparky-profile {
+    gap: 51px;
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(10, 37, 78, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .confirm-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .confirm-frame-elementsi-phone-x-status-bar {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .confirm-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .confirm-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .confirm-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .confirm-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .confirm-i-phone-icons {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(10, 37, 78, 1);
+  }
+  .confirm-time1 {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .confirm-battery1 {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .confirm-reception1 {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .confirm-wifi1 {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .confirm-line6 {
+    top: 753px;
+    left: 1px;
+    width: 367px;
+    height: 1px;
+    position: absolute;
+    box-shadow: 0px 4px 9.300000190734863px 0px rgba(0, 0, 0, 0.25) ;
+  }
+  .confirm-screenshot20240404at12244 {
+    top: 15px;
+    left: 170px;
+    width: 30px;
+    height: 25px;
+    position: absolute;
+  }
+  .confirm-text {
+    top: 49px;
+    left: 85px;
+    color: rgba(255, 255, 255, 1);
+    width: 205px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-rectangle46 {
+    top: 16px;
+    left: 24px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .confirm-text02 {
+    top: 16px;
+    left: 23px;
+    color: rgba(255, 255, 255, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-garb-image {
+    top: 84px;
+    left: 25px;
+    width: 319px;
+    height: 67px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .confirm-rectangle67 {
+    top: 272px;
+    left: 1px;
+    width: 367px;
+    height: 50px;
+    position: absolute;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .confirm-text04 {
+    top: 288px;
+    left: 14px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text06 {
+    top: 334px;
+    left: 21px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text08 {
+    top: 362px;
+    left: 21px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text10 {
+    top: 493px;
+    left: 21px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text12 {
+    top: 399px;
+    left: 273px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text14 {
+    top: 399px;
+    left: 320px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text16 {
+    top: 362px;
+    left: 323px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text18 {
+    top: 334px;
+    left: 323px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text20 {
+    top: 288px;
+    left: 319px;
+    color: rgba(10, 37, 78, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-rectangle68 {
+    top: 675px;
+    left: 11px;
+    width: 347px;
+    height: 62px;
+    position: absolute;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 10px;
+  }
+  .confirm-text22 {
+    top: 697px;
+    left: 111px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-bottom-navigation {
+    gap: 61px;
+    top: 753px;
+    left: 1px;
+    width: 368px;
+    height: 59px;
+    display: flex;
+    padding: 20px 30px;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+  .confirm-frameiconhome {
+    width: 35px;
+    height: 28.957107543945312px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .confirm-vector {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 29px;
+    position: absolute;
+  }
+  .confirm-frameiconlocation {
+    width: 22px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .confirm-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 29px;
+    position: absolute;
+  }
+  .confirm-frameiconbookmark {
+    width: 24px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .confirm-vector2 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 29px;
+    position: absolute;
+  }
+  .confirm-frameiconuser {
+    width: 27px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .confirm-vector3 {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 29px;
+    position: absolute;
+  }
+  .confirm-rectangle33 {
+    top: 175px;
+    left: 14px;
+    width: 343px;
+    height: 75px;
+    position: absolute;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+  }
+  .confirm-text24 {
+    top: 203px;
+    left: 122px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .confirm-text26 {
+    top: 508px;
+    left: 352px;
+    color: rgba(10, 37, 78, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

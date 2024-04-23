@@ -1,0 +1,380 @@
+.sparky-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .sparky-sparky-profile {
+    gap: 51px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(10, 37, 78, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .sparky-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .sparky-frame-elementsi-phone-x-status-bar {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .sparky-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .sparky-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .sparky-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .sparky-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .sparky-bottom-navigation {
+    gap: 61px;
+    top: 753px;
+    left: 0px;
+    width: 369px;
+    height: 59px;
+    display: flex;
+    padding: 20px 30px;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+  .sparky-frameiconhome {
+    width: 35px;
+    height: 28.957107543945312px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sparky-vector {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 29px;
+    position: absolute;
+  }
+  .sparky-frameiconlocation {
+    width: 22px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sparky-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 29px;
+    position: absolute;
+  }
+  .sparky-frameiconbookmark {
+    width: 24px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sparky-vector2 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 29px;
+    position: absolute;
+  }
+  .sparky-frameiconuser {
+    width: 27px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sparky-vector3 {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 29px;
+    position: absolute;
+  }
+  .sparky-text {
+    top: 101px;
+    left: 151px;
+    color: rgba(0, 8, 59, 1);
+    width: 73px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-maskgroup {
+    top: 130px;
+    left: 69px;
+    width: 237px;
+    height: 222px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sparky-ellipse10 {
+    top: 0px;
+    left: 0px;
+    width: 237px;
+    height: 222px;
+    position: absolute;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 4px;
+  }
+  .sparky-sparky1 {
+    top: 10.142131805419922px;
+    left: 13.478672981262207px;
+    width: 211px;
+    height: 224px;
+    position: absolute;
+  }
+  .sparky-arrows {
+    gap: 55px;
+    top: 395px;
+    left: 23px;
+    width: 170px;
+    height: 283px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .sparky-text02 {
+    color: rgba(0, 8, 59, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text04 {
+    top: 63px;
+    color: rgba(0, 8, 59, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text06 {
+    top: 126px;
+    color: rgba(0, 8, 59, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text08 {
+    top: 189px;
+    color: rgba(0, 8, 59, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text10 {
+    top: 252px;
+    color: rgba(0, 8, 59, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-frame23 {
+    gap: 50px;
+    top: 395px;
+    left: 330px;
+    width: 18px;
+    height: 262px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .sparky-text12 {
+    transform: scaleX(-1);
+    color: rgba(10, 37, 78, 1);
+    width: 18px;
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 500;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text13 {
+    transform: scaleX(-1);
+    color: rgba(10, 37, 78, 1);
+    width: 18px;
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 500;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text14 {
+    transform: scaleX(-1);
+    color: rgba(10, 37, 78, 1);
+    width: 18px;
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 500;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text15 {
+    transform: scaleX(-1);
+    color: rgba(10, 37, 78, 1);
+    width: 18px;
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 500;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-text16 {
+    transform: scaleX(-1);
+    color: rgba(10, 37, 78, 1);
+    width: 18px;
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 500;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sparky-line6 {
+    top: 753px;
+    left: 1px;
+    width: 367px;
+    height: 1px;
+    position: absolute;
+    box-shadow: 0px 4px 9.300000190734863px 0px rgba(0, 0, 0, 0.25) ;
+  }
+  .sparky-rectangle47 {
+    top: 15px;
+    left: 25px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .sparky-text17 {
+    top: 15px;
+    left: 24px;
+    color: rgba(10, 37, 78, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

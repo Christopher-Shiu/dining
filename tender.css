@@ -1,0 +1,569 @@
+.tender-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .tender-clicked-garbanzo {
+    gap: 51px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .tender-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .tender-i-phone-icons {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(10, 37, 78, 1);
+  }
+  .tender-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .tender-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .tender-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .tender-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .tender-montview {
+    top: 73px;
+    left: 10px;
+    width: 350px;
+    height: 167px;
+    position: absolute;
+    border-color: rgba(85, 86, 90, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .tender-locationicon {
+    top: 45.220340728759766px;
+    left: 131px;
+    width: 12px;
+    height: 13.762711524963379px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector {
+    top: 0px;
+    left: 0px;
+    width: 12px;
+    height: 14px;
+    position: absolute;
+  }
+  .tender-screenshot20240404at12241 {
+    top: 16px;
+    left: 173px;
+    width: 30px;
+    height: 25px;
+    position: absolute;
+  }
+  .tender-text {
+    top: 48px;
+    left: 143px;
+    color: rgba(255, 255, 255, 1);
+    width: 89px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-bottom-navigation {
+    gap: 61px;
+    top: 752px;
+    left: 1px;
+    width: 368px;
+    height: 59px;
+    display: flex;
+    padding: 20px 30px;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+  .tender-frameiconhome {
+    width: 35px;
+    height: 28.957107543945312px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector01 {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 29px;
+    position: absolute;
+  }
+  .tender-frameiconlocation {
+    width: 22px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector02 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 29px;
+    position: absolute;
+  }
+  .tender-frameiconbookmark {
+    width: 24px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector03 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 29px;
+    position: absolute;
+  }
+  .tender-frameiconuser {
+    width: 27px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector04 {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 29px;
+    position: absolute;
+  }
+  .tender-text02 {
+    top: 257px;
+    left: 10px;
+    color: rgba(10, 37, 78, 1);
+    width: 96px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 600;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-hamburgermenuicon {
+    top: 46.203369140625px;
+    left: 11px;
+    width: 15px;
+    height: 12.779661178588867px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector05 {
+    top: 0px;
+    left: 0px;
+    width: 15px;
+    height: 13px;
+    position: absolute;
+  }
+  .tender-locationicon1 {
+    top: 45.220458984375px;
+    left: 131px;
+    width: 12px;
+    height: 13.762711524963379px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector06 {
+    top: 0px;
+    left: 0px;
+    width: 12px;
+    height: 14px;
+    position: absolute;
+  }
+  .tender-screenshot20240404at12242 {
+    top: 16px;
+    left: 173px;
+    width: 30px;
+    height: 25px;
+    position: absolute;
+  }
+  .tender-text04 {
+    top: 48px;
+    left: 143px;
+    color: rgba(255, 255, 255, 1);
+    width: 89px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Light;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 300;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-hamburgermenuicon1 {
+    top: 46.203369140625px;
+    left: 11px;
+    width: 15px;
+    height: 12.779661178588867px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector07 {
+    top: 0px;
+    left: 0px;
+    width: 15px;
+    height: 13px;
+    position: absolute;
+  }
+  .tender-locationicon2 {
+    top: 45.220458984375px;
+    left: 131px;
+    width: 12px;
+    height: 13.762711524963379px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector08 {
+    top: 0px;
+    left: 0px;
+    width: 12px;
+    height: 14px;
+    position: absolute;
+  }
+  .tender-screenshot20240404at12243 {
+    top: 16px;
+    left: 173px;
+    width: 30px;
+    height: 25px;
+    position: absolute;
+  }
+  .tender-hamburgermenuicon2 {
+    top: 46.203369140625px;
+    left: 11px;
+    width: 15px;
+    height: 12.779661178588867px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .tender-vector09 {
+    top: 0px;
+    left: 0px;
+    width: 15px;
+    height: 13px;
+    position: absolute;
+  }
+  .tender-rectangle28 {
+    top: 273px;
+    left: 0px;
+    width: 369px;
+    height: 488px;
+    position: absolute;
+  }
+  .tender-woodfireimage3 {
+    top: 285px;
+    left: 10px;
+    width: 165px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .tender-woodfireimage2 {
+    top: 285px;
+    left: 195px;
+    width: 164px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .tender-heycowimage3 {
+    top: 512px;
+    left: 195px;
+    width: 164px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .tender-starginger-image1 {
+    top: 512px;
+    left: 10px;
+    width: 165px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .tender-text06 {
+    top: 462px;
+    left: 10px;
+    color: rgba(10, 37, 78, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-text10 {
+    top: 689px;
+    left: 232px;
+    color: rgba(10, 37, 78, 1);
+    width: 96px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-text12 {
+    top: 565px;
+    left: 221px;
+    color: rgba(10, 37, 78, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 21px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-text14 {
+    top: 689px;
+    left: 10px;
+    color: rgba(10, 37, 78, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-rectangle29 {
+    top: 247px;
+    left: 25px;
+    width: 319px;
+    height: 296px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(211, 214, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 17px;
+  }
+  .tender-text18 {
+    top: 275px;
+    left: 102px;
+    color: rgba(255, 255, 255, 1);
+    width: 166px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-frame14 {
+    gap: 32px;
+    top: 290px;
+    left: 102px;
+    width: 166px;
+    height: 251px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .tender-text20 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: underline;
+  }
+  .tender-text22 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-text24 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-text26 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-text28 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .tender-image1 {
+    top: 320px;
+    left: 79px;
+    width: 23px;
+    height: 23px;
+    position: absolute;
+  }
+  .tender-line1 {
+    top: 301px;
+    left: 26px;
+    width: 318px;
+    height: 1px;
+    position: absolute;
+    box-shadow: 0px 4px 3.299999952316284px 0px rgba(0, 8, 59, 0.699999988079071) ;
+    box-sizing: content-box;
+  }
+  .tender-rectangle40 {
+    top: 16px;
+    left: 25px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .tender-text30 {
+    top: 16px;
+    left: 24px;
+    color: rgba(255, 255, 255, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

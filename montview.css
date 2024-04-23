@@ -1,0 +1,401 @@
+.montview-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .montview-chosen-location-montview {
+    gap: 51px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .montview-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .montview-i-phone-icons {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(10, 37, 78, 1);
+  }
+  .montview-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .montview-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .montview-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .montview-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .montview-montview {
+    top: 73px;
+    left: 10px;
+    width: 350px;
+    height: 167px;
+    position: absolute;
+    border-color: rgba(85, 86, 90, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .montview-top-navigation {
+    top: 16px;
+    left: 143px;
+    width: 89px;
+    height: 43px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .montview-screenshot20240404at12241 {
+    top: 0px;
+    left: 30px;
+    width: 30px;
+    height: 25px;
+    position: absolute;
+  }
+  .montview-text {
+    top: 32px;
+    color: rgba(255, 255, 255, 1);
+    width: 89px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-locationicon {
+    top: 45.220340728759766px;
+    left: 131px;
+    width: 12px;
+    height: 13.762711524963379px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .montview-vector {
+    top: 0px;
+    left: 0px;
+    width: 12px;
+    height: 14px;
+    position: absolute;
+  }
+  .montview-bottom-navigation {
+    gap: 61px;
+    top: 752px;
+    left: 1px;
+    width: 368px;
+    height: 59px;
+    display: flex;
+    padding: 20px 30px;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+  .montview-frameiconhome {
+    width: 35px;
+    height: 28.957107543945312px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .montview-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 29px;
+    position: absolute;
+  }
+  .montview-frameiconlocation {
+    width: 22px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .montview-vector2 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 29px;
+    position: absolute;
+  }
+  .montview-frameiconbookmark {
+    width: 24px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .montview-vector3 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 29px;
+    position: absolute;
+  }
+  .montview-frameiconuser {
+    width: 27px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .montview-vector4 {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 29px;
+    position: absolute;
+  }
+  .montview-text02 {
+    top: 257px;
+    left: 10px;
+    color: rgba(10, 37, 78, 1);
+    width: 96px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 600;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-hamburgermenuicon {
+    top: 46.203369140625px;
+    left: 11px;
+    width: 15px;
+    height: 12.779661178588867px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .montview-vector5 {
+    top: 0px;
+    left: 0px;
+    width: 15px;
+    height: 13px;
+    position: absolute;
+  }
+  .montview-rectangle28 {
+    top: 273px;
+    left: 0px;
+    width: 369px;
+    height: 488px;
+    position: absolute;
+  }
+  .montview-woodfireimage3 {
+    top: 285px;
+    left: 10px;
+    width: 165px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .montview-woodfireimage2 {
+    top: 285px;
+    left: 195px;
+    width: 164px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .montview-heycowimage2 {
+    top: 512px;
+    left: 195px;
+    width: 164px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .montview-starginger-image1 {
+    top: 512px;
+    left: 10px;
+    width: 165px;
+    height: 165px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .montview-text04 {
+    top: 462px;
+    left: 10px;
+    color: rgba(10, 37, 78, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-text08 {
+    top: 689px;
+    left: 232px;
+    color: rgba(10, 37, 78, 1);
+    width: 96px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-text10 {
+    top: 541px;
+    left: 221px;
+    color: rgba(10, 37, 78, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 21px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-text12 {
+    top: 689px;
+    left: 10px;
+    color: rgba(10, 37, 78, 1);
+    width: 156px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-text16 {
+    top: 462px;
+    left: 205px;
+    color: rgba(10, 37, 78, 1);
+    width: 154px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 400;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-rectangle37 {
+    top: 16px;
+    left: 25px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .montview-text20 {
+    top: 16px;
+    left: 24px;
+    color: rgba(255, 255, 255, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .montview-rectangle38 {
+    top: 16px;
+    left: 25px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .montview-text22 {
+    top: 16px;
+    left: 24px;
+    color: rgba(255, 255, 255, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

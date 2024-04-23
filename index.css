@@ -1,0 +1,99 @@
+.index-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.index-opening-screen {
+  gap: 51px;
+  width: 369px;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 40px;
+  background-color: rgba(211, 214, 217, 1);
+}
+.index-screen {
+  top: 0px;
+  left: 0px;
+  width: 369px;
+  height: 812px;
+  position: absolute;
+}
+.index-frame-elementsi-phone-x-status-bar {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.index-time {
+  top: 16.16748046875px;
+  left: 25.7802734375px;
+  width: 40px;
+  height: 11px;
+  position: absolute;
+}
+.index-battery {
+  top: 17px;
+  left: 336px;
+  width: 24px;
+  height: 11px;
+  position: absolute;
+}
+.index-reception {
+  top: 18px;
+  left: 294px;
+  width: 16px;
+  height: 10px;
+  position: absolute;
+}
+.index-wifi {
+  top: 17px;
+  left: 316px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.index-dining-hub1 {
+  top: 282px;
+  left: 86px;
+  width: 203px;
+  height: 249px;
+  position: absolute;
+}
+.index-rectangle34 {
+  top: 15px;
+  left: 25px;
+  width: 42px;
+  height: 13px;
+  position: absolute;
+}
+.index-text {
+  top: 15px;
+  left: 24px;
+  color: rgba(10, 37, 78, 1);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: ABeeZee;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,513 @@
+.meal3-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .meal3-traditional-chicken-meal-bowl4 {
+    gap: 51px;
+    width: 369px;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    background-color: rgba(211, 214, 217, 1);
+  }
+  .meal3-screen {
+    top: 0px;
+    left: 0px;
+    width: 369px;
+    height: 812px;
+    position: absolute;
+  }
+  .meal3-rectangle33 {
+    top: 191px;
+    left: 6px;
+    width: 355px;
+    height: 572px;
+    position: absolute;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 25px;
+  }
+  .meal3-text {
+    transform: scaleX(-1);
+    top: 226px;
+    left: 326px;
+    color: rgba(255, 255, 255, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 0px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-garb-image {
+    top: 84px;
+    left: 25px;
+    width: 319px;
+    height: 67px;
+    position: absolute;
+    border-radius: 14px;
+  }
+  .meal3-i-phone-icons {
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(10, 37, 78, 1);
+  }
+  .meal3-time {
+    top: 16.16748046875px;
+    left: 25.7802734375px;
+    width: 40px;
+    height: 11px;
+    position: absolute;
+  }
+  .meal3-battery {
+    top: 17px;
+    left: 336px;
+    width: 24px;
+    height: 11px;
+    position: absolute;
+  }
+  .meal3-reception {
+    top: 18px;
+    left: 294px;
+    width: 16px;
+    height: 10px;
+    position: absolute;
+  }
+  .meal3-wifi {
+    top: 17px;
+    left: 316px;
+    width: 15px;
+    height: 11px;
+    position: absolute;
+  }
+  .meal3-screenshot20240404at12244 {
+    top: 15px;
+    left: 170px;
+    width: 30px;
+    height: 25px;
+    position: absolute;
+  }
+  .meal3-text01 {
+    top: 48px;
+    left: 136px;
+    color: rgba(255, 255, 255, 1);
+    width: 97px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text03 {
+    top: 209px;
+    left: 117px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text05 {
+    top: 171px;
+    left: 25px;
+    color: rgba(10, 37, 78, 1);
+    width: 184px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 600;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text07 {
+    top: 171px;
+    left: 276px;
+    color: rgba(183, 32, 37, 1);
+    width: 79px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-line3 {
+    top: 238px;
+    left: 12px;
+    width: 343px;
+    height: 1px;
+    position: absolute;
+  }
+  .meal3-rectangle35 {
+    top: 272px;
+    left: 56px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+  }
+  .meal3-group5 {
+    top: 306px;
+    left: 56px;
+    width: 24px;
+    height: 160px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal3-rectangle39 {
+    top: 136px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+  }
+  .meal3-rectangle40 {
+    top: 102px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+  }
+  .meal3-rectangle41 {
+    top: 68px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+  }
+  .meal3-rectangle42 {
+    top: 34px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+  }
+  .meal3-rectangle43 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(183, 32, 37, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+  }
+  .meal3-text09 {
+    top: 275px;
+    left: 98px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text11 {
+    top: 309px;
+    left: 100px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text13 {
+    top: 445px;
+    left: 100px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text15 {
+    top: 411px;
+    left: 100px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text17 {
+    top: 377px;
+    left: 100px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-text19 {
+    top: 344px;
+    left: 100px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Yrsa;
+    font-weight: 700;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-group6 {
+    top: 740px;
+    left: 168px;
+    width: 33px;
+    height: 7px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal3-ellipse12 {
+    top: 0px;
+    left: 0px;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+  }
+  .meal3-ellipse13 {
+    top: 0px;
+    left: 26px;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 0.5px;
+  }
+  .meal3-ellipse14 {
+    top: 0px;
+    left: 13px;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    border-color: rgba(244, 244, 244, 1);
+    border-style: solid;
+    border-width: 0.5px;
+  }
+  .meal3-text21 {
+    top: 226px;
+    left: 25px;
+    color: rgba(255, 255, 255, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 0px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-image1 {
+    top: 341px;
+    left: 57px;
+    width: 21px;
+    height: 21px;
+    position: absolute;
+  }
+  .meal3-rectangle44 {
+    top: 15px;
+    left: 25px;
+    width: 42px;
+    height: 13px;
+    position: absolute;
+  }
+  .meal3-text22 {
+    top: 15px;
+    left: 24px;
+    color: rgba(255, 255, 255, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: 400;
+    line-height: 18px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .meal3-bottom-navigation {
+    gap: 61px;
+    top: 753px;
+    left: 1px;
+    width: 368px;
+    height: 59px;
+    display: flex;
+    padding: 20px 30px;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+  .meal3-frameiconhome {
+    width: 35px;
+    height: 28.957107543945312px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal3-vector {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 29px;
+    position: absolute;
+  }
+  .meal3-frameiconlocation {
+    width: 22px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal3-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 29px;
+    position: absolute;
+  }
+  .meal3-frameiconbookmark {
+    width: 24px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal3-vector2 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 29px;
+    position: absolute;
+  }
+  .meal3-frameiconuser {
+    width: 27px;
+    height: 29px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .meal3-vector3 {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 29px;
+    position: absolute;
+  }
+  
